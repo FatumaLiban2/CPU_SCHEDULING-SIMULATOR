@@ -3,5 +3,5 @@ Maven project scaffold for a Java CPU scheduling simulator. Open in IntelliJ (Fi
 Quick start:
 ```bash
 mvn -q -DskipTests package
-java -cp target/classes com.example.cpuscheduler.Main
+java -cp target/classes Main
 ```
